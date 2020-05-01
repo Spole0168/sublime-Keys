@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"JavaScript Completions",
+		"Nodejs",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	]
+}
