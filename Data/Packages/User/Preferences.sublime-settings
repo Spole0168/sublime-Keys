@@ -1,0 +1,16 @@
+{
+	"channels":
+	[
+		"D:/Program Files (x86)/tool/sublimetool/channel_v3.json"
+	],
+	"font_size": 24,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"update_check": false
+}

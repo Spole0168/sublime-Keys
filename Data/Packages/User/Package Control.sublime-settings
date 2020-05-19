@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"Git",
+		"Package Control"
+	]
+}
